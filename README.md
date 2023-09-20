@@ -15,8 +15,8 @@ Latest Version Android Studio
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by:
-Registeration Number :
+Developed by: K J Poorna krishnaa
+Registeration Number : 212220040117
 */
 ```
 ## MainActivity.java File:
